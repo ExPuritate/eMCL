@@ -1,0 +1,7 @@
+[package]
+name = "emcl-cli"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+emcl_core = { path = "../.." }
